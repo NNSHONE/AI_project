@@ -11,7 +11,7 @@ python yolov11_train_val.py
 python indooroutdoornet_train.py
 ```
 ### 3. app_streamlit.py를 실행한다.
-
-```bash
+실행 명령어
+"""
 streamlit run app_streamlit.py
-```
+"""
