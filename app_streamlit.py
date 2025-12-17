@@ -2,7 +2,7 @@ import streamlit as st
 import os, datetime, pytz, json, shutil
 from PIL import Image, ImageDraw, ImageFont
 from ultralytics import YOLO
-from indooroutdoornet_fine_tuned import classify_environment
+from indooroutdoornet_eval import classify_environment
 
 # 페이지 설정
 st.set_page_config(
