@@ -6,6 +6,7 @@
 ### 2. indooroutdoornet을 학습한다.
 ### 3. app_streamlit.py를 실행한다.
 실행 명령어
+
 """
 streamlit run app_streamlit.py
 """
