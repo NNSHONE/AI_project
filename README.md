@@ -3,9 +3,15 @@
 
 ## 실행 방법
 ### 1. yolov11을 학습한다.
+```bash
+python yolov11_train_val.py
+```
 ### 2. indooroutdoornet을 학습한다.
+```bash
+python indooroutdoornet_train.py
+```
 ### 3. app_streamlit.py를 실행한다.
-실행 명령어
-"""
+
+```bash
 streamlit run app_streamlit.py
-"""
+```
